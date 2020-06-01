@@ -1,0 +1,17 @@
+.btn-green {
+  color: white;
+  background-color: #1DDD88;
+  padding: 15px 30px;
+  border-radius: 40px;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+  margin: 40px 0;
+}
+.btn-green:hover {
+  background-color: lightgreen;
+}
+
+.btn-social {
+  color: #1DDD88;
+  font-size: 32px;
+  margin: 0 10px;
+}
